@@ -15,7 +15,7 @@ namespace Lab17
 
             int num = int.Parse(input);
 
-
+            Console.WriteLine(Method.GetPrime(num));
 
 
 

@@ -15,3 +15,21 @@ C:\GrandCircus\Documents\Lab exercises\Lab17\Lab17\obj\Debug\Lab17.csproj.CoreCo
 C:\GrandCircus\Documents\Lab exercises\Lab17\Lab17\obj\Debug\Lab17.csproj.CopyComplete
 C:\GrandCircus\Documents\Lab exercises\Lab17\Lab17\obj\Debug\Lab17.exe
 C:\GrandCircus\Documents\Lab exercises\Lab17\Lab17\obj\Debug\Lab17.pdb
+F:\GrandCircus\Documents\Labs\Lab17PrimeNumbers\Lab17\bin\Debug\xunit.abstractions.dll
+F:\GrandCircus\Documents\Labs\Lab17PrimeNumbers\Lab17\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+F:\GrandCircus\Documents\Labs\Lab17PrimeNumbers\Lab17\bin\Debug\xunit.runner.reporters.net452.dll
+F:\GrandCircus\Documents\Labs\Lab17PrimeNumbers\Lab17\bin\Debug\xunit.runner.utility.net452.dll
+F:\GrandCircus\Documents\Labs\Lab17PrimeNumbers\Lab17\bin\Debug\Lab17.exe.config
+F:\GrandCircus\Documents\Labs\Lab17PrimeNumbers\Lab17\bin\Debug\Lab17.exe
+F:\GrandCircus\Documents\Labs\Lab17PrimeNumbers\Lab17\bin\Debug\Lab17.pdb
+F:\GrandCircus\Documents\Labs\Lab17PrimeNumbers\Lab17\bin\Debug\xunit.assert.dll
+F:\GrandCircus\Documents\Labs\Lab17PrimeNumbers\Lab17\bin\Debug\xunit.core.dll
+F:\GrandCircus\Documents\Labs\Lab17PrimeNumbers\Lab17\bin\Debug\xunit.execution.desktop.dll
+F:\GrandCircus\Documents\Labs\Lab17PrimeNumbers\Lab17\bin\Debug\xunit.assert.xml
+F:\GrandCircus\Documents\Labs\Lab17PrimeNumbers\Lab17\bin\Debug\xunit.core.xml
+F:\GrandCircus\Documents\Labs\Lab17PrimeNumbers\Lab17\bin\Debug\xunit.execution.desktop.xml
+F:\GrandCircus\Documents\Labs\Lab17PrimeNumbers\Lab17\obj\Debug\Lab17.csprojAssemblyReference.cache
+F:\GrandCircus\Documents\Labs\Lab17PrimeNumbers\Lab17\obj\Debug\Lab17.csproj.CoreCompileInputs.cache
+F:\GrandCircus\Documents\Labs\Lab17PrimeNumbers\Lab17\obj\Debug\Lab17.csproj.CopyComplete
+F:\GrandCircus\Documents\Labs\Lab17PrimeNumbers\Lab17\obj\Debug\Lab17.exe
+F:\GrandCircus\Documents\Labs\Lab17PrimeNumbers\Lab17\obj\Debug\Lab17.pdb

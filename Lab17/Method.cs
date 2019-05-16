@@ -49,20 +49,7 @@ namespace Lab17
             return prime-1;
 
         }
-        //public static int GetPrime(int num)//sequence number
-        //{
-        //    int factor;
-        //    int prime;
-
-        //    for (int i = 1; i <= num; i++)
-        //    {
-        //        while (factor != 1 && factor != prime)
-        //        {
-        //            factor = num % ;
-        //        }
-        //    }
-
-        //}
+        
 
     }
 }
